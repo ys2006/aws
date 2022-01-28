@@ -1,0 +1,2 @@
+ Main-Class: AthenaEndpointJDBC
+ Class-Path: AthenaJDBC42_2.0.27.1000.jar
